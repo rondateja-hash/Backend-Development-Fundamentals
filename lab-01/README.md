@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- **Name:** [Enter your full name]
-- **Registration Number:** [Enter your registration number]
-- **Section:** [Enter your section]
+- **Name:** R.TEJA SREE
+- **Registration Number:** 252U1R9139
+- **Section:** CSE GEN AI 1-C
 
 ## About the Project
 
